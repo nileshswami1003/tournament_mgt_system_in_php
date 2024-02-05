@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+    padding-top: 25px;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #12372A;
+    z-index: 1000;
+}
+
+.navbar-brand {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Add more custom styles as needed */
